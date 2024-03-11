@@ -4,7 +4,7 @@ import subprocess
 def run_wily(directory):
     try:
         # Build the wily cache (historical record of metrics)
-        # subprocess.run(['wily', 'build', directory], check=True)
+        subprocess.run(['wily', 'build', directory], check=True)
         
         # Generate a report on the latest revision
         # The output can be captured in stdout for further processing
@@ -17,7 +17,7 @@ def run_wily(directory):
         return ""
 
 # Directory containing the Python code to analyze
-your_project_directory = "main.py"
+your_project_directory = ""
 # your_project_directory = "yolov5.py"
 
 # Run wily and get the report

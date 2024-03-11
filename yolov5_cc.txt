@@ -1,0 +1,7 @@
+yolov5.py
+    [1m[35mF [0m50:0 post_process - [32mA (5)[0m
+    [1m[35mF [0m23:0 draw_label - [32mA (1)[0m
+    [1m[35mF [0m35:0 pre_process - [32mA (1)[0m
+
+3 blocks (classes, functions, methods) analyzed.
+Average complexity: [32mA (2.3333333333333335)[0m
