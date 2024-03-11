@@ -1,0 +1,11 @@
+╒══════════╤══════════╤════════╤══════════╤══════════╤══════════╤═════════╕
+│ Revisi   │ Author   │ Date   │ Cyclom   │ Unique   │ Mainta   │ Lines   │
+│ on       │          │        │ atic C   │ Operan   │ inabil   │ of      │
+│          │          │        │ omplex   │ ds       │ ity      │ Code    │
+│          │          │        │ ity      │          │ Index    │         │
+╞══════════╪══════════╪════════╪══════════╪══════════╪══════════╪═════════╡
+│ 45d3f8   │ Shahri   │ 2024-0 │ Not      │ Not      │ Not      │ Not     │
+│ e        │ yar      │ 3-11   │ found    │ found    │ found    │ found   │
+│          │          │        │ 'main.   │ 'main.   │ 'main.   │ 'main.  │
+│          │          │        │ py'      │ py'      │ py'      │ py'     │
+╘══════════╧══════════╧════════╧══════════╧══════════╧══════════╧═════════╛
